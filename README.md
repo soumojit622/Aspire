@@ -94,7 +94,7 @@ If you enjoyed using this project, please ⭐ it on GitHub! 🌟
 
 ## 🎉 **Acknowledgements**  
 
-Special thanks to **ChatGPT** for assisting in optimizing and streamlining the development of this project! 🚀✨  
+Special thanks to **ChatGPT** and **v0dev** for assisting in optimizing and streamlining the development of this project! 🚀✨  
 
 ---
 
