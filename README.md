@@ -10,7 +10,7 @@ Built using **React (Vite), Tailwind CSS, Supabase, Magic UI, ShadCN UI, and Cle
 
 ## **🌎 Live Demo & Deployment**  
 
-🔗 **Live Demo**: [Aspire Live](https://Aspire.example.com)  
+🔗 **Live Demo**: [Aspire Live](https://aspire.vercel.app)  
 
 ---
 
